@@ -1,4 +1,3 @@
-// xxxx.xxxx = byeSpeaker;
 
 (function(window) {
 	var speakWord = "Good Bye";
